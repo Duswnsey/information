@@ -1,0 +1,1 @@
+cmd /c node main.js

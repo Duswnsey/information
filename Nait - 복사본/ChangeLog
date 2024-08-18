@@ -1,0 +1,27 @@
+v0.0.1
+주제 목록을 반환하는 get요청에 대한 API 추가
+영역 목록을 반환하는 get요청에 대한 API 추가
+글 목록을 반환하는 get요청에 대한 API 추가
+댓글 목록을 반환하는 get요청에 대한 API 추가
+주제 목록을 반환하는 post요청에 대한 API 추가
+영역 목록을 반환하는 post요청에 대한 API 추가
+글 목록을 반환하는 post요청에 대한 API 추가
+댓글 목록을 반환하는 post요청에 대한 API 추가
+MIT 라이선스
+API document update
+v0.0.2
+SQL인젝션 방어
+v0.0.3
+주제 삭제하는 delete 요청에 대한 API 추가
+영역 삭제하는 delete 요청에 대한 API 추가
+문서 삭제하는 delete 요청에 대한 API 추가
+API document update
+v0.0.4
+주제 수정하는 post 요청에 대한 API 추가<br>
+영역 수정하는 post 요청에 대한 API 추가<br>
+문서 수정하는 post 요청에 대한 API 추가<br>
+API document update
+v0.0.5
+주제, 영역 수정하는 post요청이 제대로 수행되지 않는 버그 수정
+코드 가독성 개선
+몇몇 라우터의 주소 변경
